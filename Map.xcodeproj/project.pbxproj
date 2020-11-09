@@ -17,6 +17,7 @@
 		5263FB65254EEE9C006FC892 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5263FB64254EEE9C006FC892 /* ViewModel.swift */; };
 		5263FBA42555C1E0006FC892 /* getUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5263FBA32555C1E0006FC892 /* getUIView.swift */; };
 		5263FBF02558C425006FC892 /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5263FBEF2558C425006FC892 /* BlurView.swift */; };
+		5263FBF52558CD5E006FC892 /* BottomSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5263FBF42558CD5E006FC892 /* BottomSheet.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		5263FB64254EEE9C006FC892 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		5263FBA32555C1E0006FC892 /* getUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getUIView.swift; sourceTree = "<group>"; };
 		5263FBEF2558C425006FC892 /* BlurView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
+		5263FBF42558CD5E006FC892 /* BottomSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomSheet.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				5263FBA32555C1E0006FC892 /* getUIView.swift */,
 				5263FB5F254EEDEC006FC892 /* Model.swift */,
 				5263FB64254EEE9C006FC892 /* ViewModel.swift */,
+				5263FBF42558CD5E006FC892 /* BottomSheet.swift */,
 				5263FBEF2558C425006FC892 /* BlurView.swift */,
 				5263FB35254EC9C4006FC892 /* Assets.xcassets */,
 				5263FB3A254EC9C4006FC892 /* Info.plist */,
@@ -273,6 +276,7 @@
 			files = (
 				5263FB60254EEDEC006FC892 /* Model.swift in Sources */,
 				5263FB34254EC9C1006FC892 /* ContentView.swift in Sources */,
+				5263FBF52558CD5E006FC892 /* BottomSheet.swift in Sources */,
 				5263FBA42555C1E0006FC892 /* getUIView.swift in Sources */,
 				5263FB65254EEE9C006FC892 /* ViewModel.swift in Sources */,
 				5263FB32254EC9C1006FC892 /* MapApp.swift in Sources */,
